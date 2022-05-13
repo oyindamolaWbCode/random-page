@@ -287,16 +287,16 @@ ol{
     color:white;
 }
 
-.section7-landing .space-init{
+.section7-landing .space-in{
     padding:100px;
 }
 
-.section7-landing .space-init h2{
+.section7-landing .space-in h2{
     text-align: center;
     color:rgb(3, 131, 88);
 }
 
-.section7-landing .space-init ul{
+.section7-landing .space-in ul{
     display:flex;
     justify-content: center;
     
